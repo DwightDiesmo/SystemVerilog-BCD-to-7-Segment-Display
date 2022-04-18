@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Jan 26 08:54:15 2022
+# Process ID: 27108
+# Current directory: C:/Users/dwigh/Xilinx/Basys_3_BCD_to_7_Segment_Display/Basys_3_BCD_to_7_Segment_Display.runs/synth_1
+# Command line: vivado.exe -log BCD_to_7_Segment_Display.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BCD_to_7_Segment_Display.tcl
+# Log file: C:/Users/dwigh/Xilinx/Basys_3_BCD_to_7_Segment_Display/Basys_3_BCD_to_7_Segment_Display.runs/synth_1/BCD_to_7_Segment_Display.vds
+# Journal file: C:/Users/dwigh/Xilinx/Basys_3_BCD_to_7_Segment_Display/Basys_3_BCD_to_7_Segment_Display.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source BCD_to_7_Segment_Display.tcl -notrace
